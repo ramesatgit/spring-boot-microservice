@@ -1,0 +1,8 @@
+target/
+.settings
+# Eclipse & Maven
+**/.classpath
+**/.project
+**/.settings/
+**/log/
+**/target/
