@@ -15,6 +15,6 @@ public class GreetingPojo {
     }
 
     public String getContent() {
-        return content;
+        return content + " Time";
     }
 }
